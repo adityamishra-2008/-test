@@ -20,7 +20,7 @@ margin-bottom: 50px;
 .links{
 float: left;
 
-color: #fff;
+color:black;
 
 padding-top: 5px; padding-left: 9px;
 
@@ -33,7 +33,7 @@ font-family:cursive;
     font-size: 20px
 }
 .Links:hover{
-   color:black;
+   color:white;
 }
 html{
     scroll-behavior: smooth;
@@ -43,7 +43,7 @@ a{
     
 }
 .article:hover{
-    color: cornflowerblue;
+    color:black;
 }
 
 #welcome{
